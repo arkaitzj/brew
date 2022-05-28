@@ -1,8 +1,6 @@
-# homebrew-cli
-
-Allows you to install [bk](https://github.com/buildkite/cli) (the Buildkite command line interface) via [Homebrew](https://brew.sh):
+# Brew formulas for things I needed to change
 
 ```bash
-$ brew install buildkite/cli/bk
+$ brew install arkaitzj/brew/buildkite-cli
 $ bk --help
 ```
