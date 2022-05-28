@@ -1,4 +1,4 @@
-class Bk < Formula
+class BuildkiteBk < Formula
   homepage "https://github.com/buildkite/cli"
   desc "A command line interface for Buildkite."
   url "https://github.com/buildkite/cli/releases/download/v1.2.0/cli-darwin-amd64"
